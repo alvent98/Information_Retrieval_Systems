@@ -1,0 +1,11 @@
+map_cut_5             	Q01	0.1698
+map_cut_5             	Q02	0.1389
+map_cut_5             	Q03	0.2536
+map_cut_5             	Q04	0.0464
+map_cut_5             	Q05	0.0896
+map_cut_5             	Q06	0.0263
+map_cut_5             	Q07	0.0625
+map_cut_5             	Q08	0.3571
+map_cut_5             	Q09	0.1310
+map_cut_5             	Q10	0.0500
+map_cut_5             	all	0.1325

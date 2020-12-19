@@ -1,0 +1,11 @@
+num_rel_ret           	Q01	12
+num_rel_ret           	Q02	3
+num_rel_ret           	Q03	8
+num_rel_ret           	Q04	3
+num_rel_ret           	Q05	5
+num_rel_ret           	Q06	1
+num_rel_ret           	Q07	3
+num_rel_ret           	Q08	11
+num_rel_ret           	Q09	5
+num_rel_ret           	Q10	2
+num_rel_ret           	all	53

@@ -1,0 +1,11 @@
+num_rel_ret           	Q01	4
+num_rel_ret           	Q02	2
+num_rel_ret           	Q03	4
+num_rel_ret           	Q04	2
+num_rel_ret           	Q05	3
+num_rel_ret           	Q06	1
+num_rel_ret           	Q07	1
+num_rel_ret           	Q08	5
+num_rel_ret           	Q09	3
+num_rel_ret           	Q10	1
+num_rel_ret           	all	26

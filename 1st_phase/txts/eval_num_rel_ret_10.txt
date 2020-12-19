@@ -1,0 +1,11 @@
+num_rel_ret           	Q01	8
+num_rel_ret           	Q02	3
+num_rel_ret           	Q03	6
+num_rel_ret           	Q04	2
+num_rel_ret           	Q05	3
+num_rel_ret           	Q06	1
+num_rel_ret           	Q07	2
+num_rel_ret           	Q08	8
+num_rel_ret           	Q09	4
+num_rel_ret           	Q10	2
+num_rel_ret           	all	39

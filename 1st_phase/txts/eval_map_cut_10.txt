@@ -1,0 +1,11 @@
+map_cut_10            	Q01	0.3857
+map_cut_10            	Q02	0.1746
+map_cut_10            	Q03	0.3743
+map_cut_10            	Q04	0.0464
+map_cut_10            	Q05	0.0896
+map_cut_10            	Q06	0.0263
+map_cut_10            	Q07	0.0764
+map_cut_10            	Q08	0.5714
+map_cut_10            	Q09	0.1500
+map_cut_10            	Q10	0.0750
+map_cut_10            	all	0.1970
